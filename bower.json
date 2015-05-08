@@ -13,7 +13,6 @@
     "tests"
   ],
   "dependencies": {
-    "primer-css": "~2.1.0",
-    "fontawesome": "~4.3.0"
+    "primer-css": "~2.1.0"
   }
 }
